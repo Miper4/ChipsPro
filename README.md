@@ -1,0 +1,2 @@
+# ChipsPro
+Zaawansowane myśli technologiczne
